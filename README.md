@@ -10,4 +10,4 @@ The resulting points are then run the a library to extract the surface polygons 
 ![Example 1](./exampleOutput.png)
 
 ## 32 Points
-![Example 1](./output%32for%3232%32vertexes.png)
+![Example 1](./exampleOutput-32.png)
